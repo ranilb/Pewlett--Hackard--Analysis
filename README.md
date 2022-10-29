@@ -30,3 +30,15 @@ After the relationships between the data were identityfied, analysis was continu
  
  
     ![Screen Shot 2022-10-29 at 3 25 49 AM](https://user-images.githubusercontent.com/112113327/198819503-111e3c56-78a6-4f37-b627-c0dffcdb05ec.png)
+
+
+# Summary
+According to the results shown in previous sections, there are about 72,500 employees are going to be retired soon. However, according the criteria given to eligible for mentoring (Started work in 1965), only about 1500 can be selected. This number is about 2% of the requirement. The following table is shown the number of eligible employees for each job title. 
+
+    
+![Screen Shot 2022-10-29 at 3 40 13 AM](https://user-images.githubusercontent.com/112113327/198820137-8c8b6326-7369-49e8-907a-eb74c749cf1c.png)
+
+However, if the eligibility constrained change to the start date from 1960 to 1970, there will be sufficient mentors from inside the company. The following table shows the updated outputs after chaning the eligibility constraint.
+
+   
+    
